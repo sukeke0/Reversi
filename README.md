@@ -1,2 +1,2 @@
 # othello
-javascript othello
+Simple Othello of javascript
