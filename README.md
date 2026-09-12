@@ -1,2 +1,2 @@
 # Reversi
-Simple Reversi of javascript
+Simple Reversi in JavaScript
